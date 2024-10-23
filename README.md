@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Francisco
 - 👀 I’m interested in develop applications and keep learning in this magnificent area <3.
-- 🌱 I’m currently learning Linux, Java, Jenkins and App's Automation.
+- 🌱 I’m currently learning Linux, Java, Python, Jenkins and App's Automation.
 - 💞️ I’m looking to collaborate on solve diversified IT problems.
 - 📫 How to reach me:
 - Linkedin: https://www.linkedin.com/in/francisco-assis-a1bb83b7/
